@@ -1,11 +1,8 @@
 ### Hi there 👋 I'm Marco Scardovi (ScardracS)
 
- 🔭 I’m currently working on my PinePhone!
- 
- 
+ - 🔭 I’m currently working on my PinePhone!
  - 📫 How to reach me
- 
-mail - marcoscardovi@protonmail.com && Twitter - https://www.twitter.com/ScardracS
+      mail - marcoscardovi@protonmail.com && Twitter - https://www.twitter.com/ScardracS
 <!--
 **ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
