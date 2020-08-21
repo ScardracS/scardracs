@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Marco "ScardracS" Scardovi
 
- - 🔭 I’m currently working on Fedora for my PinePhone!
- - 📫 ou can reach me out via mail - mailto:marcoscardovi@protonmail.com or Twitter - https://www.twitter.com/ScardracS
- -    If you like my work please consider to take me a coffee: paypal.me/ScardracS
+ - I’m currently working on Fedora for my PinePhone!
+ - You can reach me out via mail - mailto:marcoscardovi@protonmail.com or Twitter - https://www.twitter.com/ScardracS
+ - If you like my work please consider to take me a coffee: paypal.me/ScardracS
 <!--
 **ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
