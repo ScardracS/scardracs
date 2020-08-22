@@ -3,8 +3,6 @@
  - I’m currently working on Fedora for my PinePhone and on my blog scardracs.com
  - You can reach me out via mail - mailto:marcoscardovi@protonmail.com or Twitter - https://www.twitter.com/ScardracS
  - If you like my work please consider to take me a coffee: paypal.me/ScardracS
- 
-[![ScardracS's github stats](https://github-readme-stats.vercel.app/api?username=ScardracS&show_icons=true&theme=dark)](https://github.com/ScardracS/github-readme-stats)
 <!--
 **ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
