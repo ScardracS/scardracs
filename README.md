@@ -1,9 +1,16 @@
 ### Hi there 👋 I'm Marco "ScardracS" Scardovi
 
- - I’m currently working on Fedora for my PinePhone and on my blog scardracs.com
- - You can reach me out via mail - mailto:marcoscardovi@protonmail.com or Twitter - https://www.twitter.com/ScardracS
- - If you like my work please consider to take me a coffee: www.paypal.me/ScardracS
- - For patreons you can consider my liberapay: https://liberapay.com/ScardracS/donate
+🔭 Working on
+ - My blog www.scardracs.com
+ 
+📫 You can reach me out
+ - E-Mail - mailto:marcoscardovi@protonmail.com
+ - Twitter - https://www.twitter.com/ScardracS
+ 
+😄 Please consider to send me a coffee if I have helped you:
+ - For PayPal www.paypal.me/ScardracS
+ - For patreons: https://liberapay.com/ScardracS/donate
+ - For Bitcoins: 3KoCvKwhygKLM9DHXhJenpXZJfMZvohMZV
 <!--
 **ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
