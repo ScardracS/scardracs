@@ -11,6 +11,7 @@
  - For PayPal www.paypal.me/ScardracS
  - For patreons: https://liberapay.com/ScardracS/donate
  - For Bitcoins: 3KoCvKwhygKLM9DHXhJenpXZJfMZvohMZV
+ - For Monero: 8BN9woVJ6GCWcD2N6RBvE6MVSBstufj5YMhd9iP99UdfjWFtGSwmG3iHWJaXEGWnyUbX8qvmXKWJgQDqbTmAF1iNUUSdTpr
 <!--
 **ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
