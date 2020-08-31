@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Marco "ScardracS" Scardovi
 
 🔭 Working on
- - My blog www.scardracs.com
+ - My blog www.scardracs.blog and my PinePhone
+ - 
  
 📫 You can reach me out
  - E-Mail - mailto:marcoscardovi@protonmail.com
