@@ -14,7 +14,7 @@
  - For Bitcoins: 3KoCvKwhygKLM9DHXhJenpXZJfMZvohMZV
  - For Monero: 8BN9woVJ6GCWcD2N6RBvE6MVSBstufj5YMhd9iP99UdfjWFtGSwmG3iHWJaXEGWnyUbX8qvmXKWJgQDqbTmAF1iNUUSdTpr
 
-### My Stats!
+### 📈 My Stats!
 ![ScardracS's Github Stats](https://github-readme-stats.vercel.app/api?username=scardracs&show_icons=true&theme=radical)
 <!--
 **ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
