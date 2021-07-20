@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on!
  - My blog [scardracs.blog](https://www.scardracs.blog)
  - My PinePhone
- - Gentoo proxy maintainer at [gentoo official repo](https://www.github.com/gentoo/gentoo). A list of maintained packages can be found [here](https://packages.gentoo.org/maintainer/marco@scardovi.com)
+ - Gentoo proxy maintainer/bug wrangler/translator at [gentoo official repo](https://www.github.com/gentoo/gentoo).
  - Guru proxy maintainer at [GURU project](https://gitweb.gentoo.org/repo/proj/guru.git)
  
 ### 📫 You can reach me out on these ways!
