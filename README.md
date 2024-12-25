@@ -9,7 +9,7 @@
  - [TikTok](https://www.tiktok.com/@scardracs)
  
 😄 Please consider to send me a coffee if I have helped you:
- - For PayPal www.paypal.me/scardracs
+ - For [PayPal](www.paypal.me/MarcoScardovi)
 
 🤔 I’m looking for help with
  - Setting up github's actions
