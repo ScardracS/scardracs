@@ -1,23 +1,23 @@
 ### Hi there 👋 I'm Marco "ScardracS" Scardovi
 
 🔭 Working on
- - My blog www.scardracs.blog and my PinePhone
- - 
+ - My life
  
 📫 You can reach me out
- - E-Mail - mailto:marcoscardovi@protonmail.com
- - Twitter - https://www.twitter.com/ScardracS
+ - E-Mail - mailto:mscardovi95@gmail.com
+ - Instagram - www.instagram.com/scardracs
+ - TikTok - www.tiktok.com/scardracs
  
 😄 Please consider to send me a coffee if I have helped you:
- - For PayPal www.paypal.me/ScardracS
- - For patreons: https://liberapay.com/ScardracS/donate
- - For Bitcoins: 3KoCvKwhygKLM9DHXhJenpXZJfMZvohMZV
- - For Monero: 8BN9woVJ6GCWcD2N6RBvE6MVSBstufj5YMhd9iP99UdfjWFtGSwmG3iHWJaXEGWnyUbX8qvmXKWJgQDqbTmAF1iNUUSdTpr
+ - For PayPal www.paypal.me/scardracs
+
+🤔 I’m looking for help with
+ - Setting up github's actions
 
 ### 📈 My Stats!
-![ScardracS's Github Stats](https://github-readme-stats.vercel.app/api?username=scardracs&show_icons=true&theme=radical)
+![scardracs's Github Stats](https://github-readme-stats.vercel.app/api?username=scardracs&show_icons=true&theme=radical)
 <!--
-**ScardracS/ScardracS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**scardracs/scardracs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
