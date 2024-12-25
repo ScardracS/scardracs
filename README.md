@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Marco "ScardracS" Scardovi
+### Hi there 👋 I'm Marco "scardracs" Scardovi
 
 🔭 Working on
  - My life
