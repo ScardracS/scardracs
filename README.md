@@ -4,9 +4,9 @@
  - My life
  
 📫 You can reach me out
- - E-Mail - mailto:mscardovi95@gmail.com
- - Instagram - www.instagram.com/scardracs
- - TikTok - www.tiktok.com/scardracs
+ - [E-Mail](mailto:mscardovi95@gmail.com)
+ - [Instagram](www.instagram.com/scardracs)
+ - [TikTok](https://www.tiktok.com/@scardracs)
  
 😄 Please consider to send me a coffee if I have helped you:
  - For PayPal www.paypal.me/scardracs
